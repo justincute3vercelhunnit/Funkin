@@ -42,3 +42,4 @@ Full credits can be found in-game, or wherever the credits.json file is.
 - [Tom Fulp](https://twitter.com/tomfulp) - For being a great guy and for Newgrounds
 - [JohnnyUtah](https://twitter.com/JohnnyUtahNG/) - Voice of Tankman
 - [L0Litsmonica](https://twitter.com/L0Litsmonica) - Voice of Mommy Mearest
+ok @sssss
